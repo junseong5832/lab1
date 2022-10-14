@@ -1,5 +1,5 @@
 # lab1
-git commit lab1
+
 git push lab1
 git describe parent
 git clone lab2
